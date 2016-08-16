@@ -5,12 +5,18 @@ body {
 
 .main-title {
 	text-align: center;
-	font-weight: 350;
+	font-weight: 150;
 	border-radius: 10px;
-	border: 2px solid #75B1D6;
+	border: 1px solid #75B1D6;
 	background: #FFFFFF;
 	padding: 15px;
-	margin: 50px;
+	margin: 25px;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
+.introduction {
+	text-align: center;
 }
 
 h1 {
